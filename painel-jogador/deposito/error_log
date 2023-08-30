@@ -1,0 +1,71 @@
+[26-Aug-2023 22:27:36 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:27:47 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:28:45 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:29:46 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:29:58 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:31:50 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:31:52 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:31:52 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:31:52 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:31:52 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:32:31 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:32:35 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:32:44 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 47
+[26-Aug-2023 22:32:45 America/Sao_Paulo] PHP Fatal error:  Can't use function return value in write context in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 47
+[26-Aug-2023 22:35:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 53
+[26-Aug-2023 22:35:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 53
+[26-Aug-2023 22:41:34 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:41:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 54
+[26-Aug-2023 22:41:47 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:41:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 54
+[26-Aug-2023 22:42:08 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:42:31 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 55
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 55
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:43:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 55
+[26-Aug-2023 22:44:54 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:45:10 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:50:11 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:50:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 59
+[26-Aug-2023 22:50:50 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:50:50 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 59
+[26-Aug-2023 22:51:46 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:51:46 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 59
+[26-Aug-2023 22:53:34 America/Sao_Paulo] PHP Notice:  Undefined variable: valorparaconta in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 49
+[26-Aug-2023 22:53:34 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 59
+[26-Aug-2023 22:54:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 22:55:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on bool in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
+[26-Aug-2023 23:03:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on bool in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/hlfgpaqf/snookerball.bet/painel-jogador/deposito/deposito.php on line 44
